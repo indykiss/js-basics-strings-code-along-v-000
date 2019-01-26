@@ -2,7 +2,7 @@
 
 const currentUser = 'Grace Hopper';
 
-const welcomeMessage = ''
+const welcomeMessage = 'Welcome to '
  
 const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
